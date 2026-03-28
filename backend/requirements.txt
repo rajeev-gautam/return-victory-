@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+gtts
+librosa
+numpy
+opencv-python
+torch
+torchvision
+tqdm
+python-dotenv
+requests
+aiofiles
